@@ -50,3 +50,8 @@ body {
     text-decoration: none;
     color: lightgrey;
   }
+
+  #sticky-sidebar {
+    position: sticky;
+    top: 5rem;
+  }
